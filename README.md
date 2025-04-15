@@ -38,9 +38,9 @@ This is a simple **CRUD (Create, Read, Update, Delete)** REST API built using **
 
 ### 🔌 Clone the Repository
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone :https://github.com/priyanshu-234/springboot-mysql-crud
+
+
 
 spring.datasource.url=jdbc:mysql://localhost:3306/your_db_name
 spring.datasource.username=your_db_username
