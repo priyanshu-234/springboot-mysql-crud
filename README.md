@@ -72,7 +72,7 @@ Copy
 Edit
 {
   "name": "Priyanshu",
-  "email": "shuklapriyanshu6292@gmail.com"
+  "email": "shuklapriyansh000@gmail.com"
 }
 
 
