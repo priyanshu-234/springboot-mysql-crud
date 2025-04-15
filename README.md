@@ -52,9 +52,7 @@ spring.jpa.show-sql=true
 ▶️ Run the App
 You can run the application from your IDE or using the terminal:
 
-bash
-Copy
-Edit
+
 mvn spring-boot:run
 
 📬 API Endpoints
@@ -68,8 +66,7 @@ DELETE	/api/users/{id}	Delete a user
 
 🧪 Sample JSON for POST/PUT
 json
-Copy
-Edit
+
 {
   "name": "Priyanshu",
   "email": "shuklapriyansh000@gmail.com"
